@@ -1,4 +1,4 @@
-# Lab 1: ADRIÁN Laban
+# Lab 1: ADRIÁN LABAN
 
 ### De Morgan's laws
 
