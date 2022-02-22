@@ -1,4 +1,4 @@
-# Lab 1: YOUR_FIRSTNAME LASTNAME
+# Lab 1: ADRIÁN Laban
 
 ### De Morgan's laws
 
