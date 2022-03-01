@@ -6,7 +6,7 @@
 
    Greater than:
 
-   
+| **** | **** |**** | **** | **** | **** |   
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |    |   |    | A0 | A1 |    |
 |    |   | 00 | 01 | 11 | 10 |
@@ -17,7 +17,7 @@
 
 
    Less than:
-
+| **** | **** |**** | **** | **** | **** |  
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |    |   |    | A0 | A1 |    |
 |    |   | 00 | 01 | 11 | 10 |
@@ -28,7 +28,7 @@
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/foto.png)
+   ![Logic functions](images/foto.jpg)
 
 ### 4-bit comparator
 
