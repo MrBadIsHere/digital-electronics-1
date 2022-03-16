@@ -1,10 +1,23 @@
-# Lab 5: YOUR_FIRSTNAME LASTNAME
+----------------------------------------------------------------------------------
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date: 03/13/2022 10:02:14 PM
+-- Design Name: 
+-- Module Name: t_ff_rst - Behavioral
+-- Project Name: 
+-- Target Devices: 
+-- Tool Versions: 
+-- Description: 
+-- 
+-- Dependencies: 
+-- 
+-- Revision:
+-- Revision 0.01 - File Created
+-- Additional Comments:
+-- 
+----------------------------------------------------------------------------------
 
-### Flip-flops
-
-1. Listing of VHDL architecture for T-type flip-flop. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
-
-```vhdl
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
@@ -48,14 +61,3 @@ begin
     q_bar <= not s_q;
     
 end architecture Behavioral;
-```
-
-2. Screenshot with simulated time waveforms. Try to simulate both flip-flops in a single testbench with a maximum duration of 200 ns, including reset. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
-
-   ![your figure]()
-
-### Shift register
-
-1. Image of the shift register block schematic. The image can be drawn on a computer or by hand. Always name all inputs, outputs, components and internal signals!
-
-   ![your figure]()
