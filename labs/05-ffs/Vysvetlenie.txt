@@ -1,0 +1,3 @@
+2 contributorov tam ukazuje preto, lebo keď som bol v škole,
+tak niekto sa tam natvrdo zaregistroval aj keď som vymazal celu zložku, odhlasil a prihlasil sa naspät,
+pushol som to, tak stále to pushlo ako ten čo tam bol natvrdo a nie ako môj push.
