@@ -32,8 +32,8 @@
 
 2. Screenshot with simulated time waveforms. Test reset as well. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure](images/waveform1.png)
-   ![your figure](images/waveform2.png)
+   ![your figure](images/oprava.png)
+
 
 ### Two counters
 
